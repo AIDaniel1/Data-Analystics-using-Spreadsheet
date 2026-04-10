@@ -1,6 +1,8 @@
 # Data-Analystics-using-Spreadsheet
 An E-Commerce dataset analysis. 
 
+Dashboard Link: https://lookerstudio.google.com/reporting/7599f3e6-2c18-495c-8ba4-c01444072727
+
 Portfolio Description 
 
 Problem
